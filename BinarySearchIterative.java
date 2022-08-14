@@ -2,7 +2,7 @@ package searchingalgos;
 
 /**
  * Works with Sorted array only
- * Time Complexity O(N)
+ * Time Complexity O(LogN)
  * Space Complexity O(1)
  */
 public class BinarySearchIterative {
